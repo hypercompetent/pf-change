@@ -1,0 +1,51 @@
+Batch,Phase,celltype.l1,celltype.l2,celltype.l3,donor,lane,nCount_ADT,nCount_RNA,nFeature_ADT,nFeature_RNA,orig.ident,time
+Batch2,G2M,DC,pDC,pDC,P7,E2L3,6255,15231,204,3501,SeuratProject,0
+Batch2,G1,other T,gdT,gdT_3,P7,E2L6,1716,6527,183,1913,SeuratProject,2
+Batch2,G1,Mono,CD14 Mono,CD14 Mono,P7,E2L3,7417,16147,207,3279,SeuratProject,2
+Batch2,S,B,B memory,B memory kappa,P6,E2L1,4608,9166,203,2226,SeuratProject,2
+Batch2,S,CD8 T,CD8 TEM,CD8 TEM_5,P5,E2L2,3165,5907,189,2030,SeuratProject,7
+Batch2,G1,Mono,CD14 Mono,CD14 Mono,P6,E2L8,10295,11550,216,3233,SeuratProject,0
+Batch2,G1,other T,MAIT,MAIT,P6,E2L6,2415,7975,199,2454,SeuratProject,2
+Batch2,G1,B,B naive,B naive kappa,P7,E2L3,3565,6418,193,2004,SeuratProject,2
+Batch2,S,Mono,CD14 Mono,CD14 Mono,P8,E2L2,7150,8541,213,2595,SeuratProject,7
+Batch1,G1,DC,pDC,pDC,P4,L2,4987,9239,213,2607,SeuratProject,0
+Batch2,G2M,CD4 T,CD4 Naive,CD4 Naive,P8,E2L7,4404,5952,199,1894,SeuratProject,2
+Batch2,G2M,B,B naive,B naive kappa,P6,E2L5,4436,5982,207,1842,SeuratProject,2
+Batch2,G2M,B,B intermediate,B intermediate kappa,P8,E2L5,3489,6651,197,2001,SeuratProject,0
+Batch2,S,Mono,CD16 Mono,CD16 Mono,P6,E2L3,11309,13471,217,3564,SeuratProject,7
+Batch2,S,CD4 T,CD4 Naive,CD4 Naive,P8,E2L8,3008,4581,197,1596,SeuratProject,2
+Batch2,G1,CD8 T,CD8 TEM,CD8 TEM_5,P5,E2L8,3545,4967,195,1876,SeuratProject,0
+Batch1,S,CD4 T,CD4 TCM,CD4 TCM_3,P3,L4,5069,5572,203,1553,SeuratProject,0
+Batch1,S,other,HSPC,HSPC,P1,L4,3441,9975,217,2749,SeuratProject,7
+Batch2,G1,CD4 T,CD4 TCM,CD4 TCM_1,P8,E2L3,5381,7680,201,2145,SeuratProject,0
+Batch1,S,CD4 T,Treg,Treg Naive,P2,L1,4585,4801,201,1218,SeuratProject,0
+Batch1,G1,Mono,CD14 Mono,CD14 Mono,P2,L2,13211,9673,222,2859,SeuratProject,0
+Batch2,S,CD4 T,CD4 TCM,CD4 TCM_3,P7,E2L3,4145,7023,208,1746,SeuratProject,0
+Batch2,S,CD8 T,CD8 TEM,CD8 TEM_5,P5,E2L3,4305,5492,202,1706,SeuratProject,0
+Batch2,G2M,Mono,CD14 Mono,CD14 Mono,P6,E2L4,2909,5231,177,2051,SeuratProject,0
+Batch2,S,NK,NK,NK_2,P7,E2L4,3309,5077,192,1914,SeuratProject,0
+Batch1,S,NK,NK,NK_4,P3,L3,2140,3643,210,1569,SeuratProject,7
+Batch2,G1,Mono,CD14 Mono,CD14 Mono,P7,E2L6,20463,15822,219,3239,SeuratProject,7
+Batch1,G1,Mono,CD14 Mono,CD14 Mono,P4,L5,5695,7115,218,2296,SeuratProject,0
+Batch2,G1,Mono,CD14 Mono,CD14 Mono,P6,E2L1,7194,8517,201,2544,SeuratProject,0
+Batch1,G1,Mono,CD14 Mono,CD14 Mono,P3,L5,8065,6805,216,2181,SeuratProject,0
+Batch1,G1,CD4 T,CD4 Naive,CD4 Naive,P4,L1,4094,4115,208,1096,SeuratProject,7
+Batch2,S,Mono,CD16 Mono,CD16 Mono,P7,E2L4,1437,8678,167,2851,SeuratProject,0
+Batch1,G2M,Mono,CD14 Mono,CD14 Mono,P3,L3,4607,4170,217,1575,SeuratProject,0
+Batch1,G1,CD4 T,CD4 TCM,CD4 TCM_1,P3,L1,6490,4890,208,1730,SeuratProject,7
+Batch1,S,CD4 T,CD4 TCM,CD4 TCM_2,P2,L2,5738,2989,216,1057,SeuratProject,2
+Batch1,G1,CD8 T,CD8 Naive,CD8 Naive,P3,L4,5066,5673,215,1377,SeuratProject,0
+Batch1,G1,Mono,CD14 Mono,CD14 Mono,P3,L5,11635,4329,221,1660,SeuratProject,0
+Batch1,G1,Mono,CD14 Mono,CD14 Mono,P4,L2,7317,11197,218,2986,SeuratProject,0
+Batch1,S,CD4 T,CD4 TEM,CD4 TEM_1,P2,L1,6032,4245,206,1366,SeuratProject,2
+Batch1,S,CD8 T,CD8 Naive,CD8 Naive,P3,L1,5539,5687,207,1461,SeuratProject,2
+Batch1,S,CD4 T,Treg,Treg Naive,P2,L4,5057,4656,212,1251,SeuratProject,2
+Batch1,S,Mono,CD14 Mono,CD14 Mono,P4,L3,5503,8511,208,2674,SeuratProject,2
+Batch1,G2M,CD4 T,CD4 TCM,CD4 TCM_1,P1,L5,6002,7753,209,1934,SeuratProject,7
+Batch2,G1,Mono,CD14 Mono,CD14 Mono,P6,E2L6,6818,14327,204,3695,SeuratProject,7
+Batch2,G1,Mono,CD14 Mono,CD14 Mono,P8,E2L7,6215,11069,199,2917,SeuratProject,7
+Batch2,G2M,CD8 T,CD8 TEM,CD8 TEM_3,P8,E2L5,4487,8223,202,2497,SeuratProject,2
+Batch1,G1,CD8 T,CD8 TEM,CD8 TEM_4,P4,L5,3751,5399,212,1817,SeuratProject,7
+Batch2,S,CD8 T,CD8 Naive,CD8 Naive,P7,E2L5,3829,9036,199,2143,SeuratProject,0
+Batch1,S,CD4 T,CD4 Naive,CD4 Naive,P3,L4,5649,4956,213,1320,SeuratProject,7
+Batch2,G1,Mono,CD14 Mono,CD14 Mono,P7,E2L5,3925,16914,199,3744,SeuratProject,0

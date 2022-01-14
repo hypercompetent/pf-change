@@ -1,0 +1,3 @@
+path,modality,tar,file_type,recursive,project_folder,tag_version,tag_details,tag_group,tag_origin,tag_other
+demo_data/a_data_kind/,scrna-seq,FALSE,h5,FALSE,fh1_treat,1,,data,AIFI,user:lucas.graybuck
+demo_data/more_different_data/,flow-cytometry,TRUE,csv,TRUE,fh1_treat,1,,data,AIFI,user:lucas.graybuck
